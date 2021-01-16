@@ -1,0 +1,4 @@
+CIS #,Key,Value,Location ,Setting
+2.3.10.11,HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanManServer\Parameters,NullSessionShares,HKLM,
+2.3.10.12,HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa,ForceGuest,HKLM,
+18.3.4,HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\kernel,DisableExceptionChainValidation,HKLM,
